@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tanmay Sarkar... and I'm a B.Tech student..., from GNIT....</h2>
+<h2 align="left">Hi 👋! My name is Tanmay Sarkar... and I'm a B.Tech student..., from Kolkata....</h2>
 
 ###
 
