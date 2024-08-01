@@ -35,10 +35,10 @@
   <a href="https://www.youtube.com/@bongeodoodlea-yc1gg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/bongeodoodlea/" target="_blank">
+  <a href="https://www.instagram.com/bongeodoodlea?igsh=M3doNHlmejU5YmJu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="http://discordapp.com/users/1268134541827113102" target="_blank">
+  <a href="http://Discordapp.com/users/1268134541827113102" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -55,5 +55,31 @@
 ###
 
 <img src="https://raw.githubusercontent.com/bongeodoodlea/bongeodoodlea/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNpMDdwdXE1ZzRodnVpZHZsdmdqb3AzOHcwbTlwdXJmYjlxb2VwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mx7mShBT6MFcDJcru6/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bongeodoodlea/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=bongeodoodlea&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31myl3dujkrvg2feed5e6dtmbusa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31myl3dujkrvg2feed5e6dtmbusa&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
